@@ -1,7 +1,7 @@
 {
 	"name": "feedback-analyzer",
 	"main": "src/index.ts",
-	"compatibility_date": "2024-01-01",
+	"compatibility_date": "2024-04-03",
 	"ai": {
 	  "binding": "AI"
 	},
